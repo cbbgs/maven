@@ -7,7 +7,7 @@
 
 # maven环境变量配置
 
-![](img/maven1.png)
+![](https://github.com/cbbgs/maven/blob/master/img/maven1.png)
 
 
 
